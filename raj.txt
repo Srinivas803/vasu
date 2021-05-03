@@ -1,0 +1,3 @@
+s this is for demo raj.txt
+demo1
+demo2 
